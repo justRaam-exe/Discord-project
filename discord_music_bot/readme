@@ -1,6 +1,8 @@
 This is discord Music Bot
 before you run the program
-usually install the requirements first
+install the requirements first
+pip install discord.py
+pip install yt-dlp
 
 dont forget to instal the external software "FFmpeg"
 if you using windows:
