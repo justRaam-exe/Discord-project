@@ -1,3 +1,14 @@
 This is discord Music Bot
 before you run the program
 usually install the requirements first
+
+dont forget to instal the external software "FFmpeg"
+if you using windows:
+    install the FFmpeg at https://www.gyan.dev/ffmpeg/builds/
+    after that, extract the folder and adding to Environment Variables.
+    check the version after your install
+if you using linux (ubuntu/Debian):
+    sudo apt update
+    sudo apt install ffmpeg
+if you using macOS:
+    brew install ffmpeg
